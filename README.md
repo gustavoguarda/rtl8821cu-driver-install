@@ -28,7 +28,7 @@ This script automates the installation of the Realtek RTL8821CU Wi-Fi driver for
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rtl8821cu-driver-install.git
+   git clone https://github.com/gustavoguarda/rtl8821cu-driver-install.git
    cd rtl8821cu-driver-install
    ```
 2. Make the script executable:
